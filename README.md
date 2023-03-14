@@ -5,7 +5,7 @@
 Here's some info about me: 
 
 <ul>
-  <li style="textDecoration: none">🔭 I’m currently working on building out a React application that displays a small business focused on marketing their photography. 
+  <li style="text-decoration: none">🔭 I’m currently working on building out a React application that displays a small business focused on marketing their photography. 
 </li>
   <li>🌱 I’m currently learning Typescript and how to use it in my web applications.
 </li>
