@@ -1,4 +1,4 @@
-## Hi there, I'm Amanda! 👋
+# Hi there, I'm Amanda! 👋
 
 <p>Former personal trainer and youth worker turned Software Developer, I now develop websites with the goal to create applications that help our communities! I currently work with the MERN stack, and I love Frontend developement (but I'm constantly learning new technologies and skills).<p/>
 
