@@ -4,7 +4,7 @@
 
 ### Tech Skills 
 
-<p>HTML, CSS, JS</p>
+<p>-HTML -CSS -JS -MERN Stack: MongoDB, Express.js, React, Node.js -Python -Django -Material.ui </p>
 <p>MERN Stack: MongoDB, Express.js, React, Node.js</p>
 <p>Python, Django</p>
 <p>Material.ui, SQL, PostgreSQL, AWS</p>
