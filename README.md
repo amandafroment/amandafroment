@@ -2,6 +2,16 @@
 
 <p>Former personal trainer and youth worker turned Software Developer, I now develop websites with the goal to create applications that help our communities! I currently work with the MERN stack, and I love Frontend developement (but I'm constantly learning new technologies and skills).<p/>
 
+### Tech Skills 
+
+<p>HTML, CSS, JS</p>
+<p>MERN Stack: MongoDB, Express.js, React, Node.js</p>
+<p>Python, Django</p>
+<p>Material.ui, SQL, PostgreSQL, AWS</p>
+<p>Heroku, Git</p>
+
+
+
 ### About Me 👩🏻‍💻
 
 Check out my <a href="https://amanda-froment.herokuapp.com/">Portfolio!</a>
