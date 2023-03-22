@@ -2,13 +2,15 @@
 
 <p>Former personal trainer and youth worker turned Software Developer, I now develop websites with the goal to create applications that help our communities! I currently work with the MERN stack, and I love Frontend developement (but I'm constantly learning new technologies and skills).<p/>
 
-### Tech Skills 
+### Tech Skills 👩🏻‍💻
 
-<p>-HTML -CSS -JS -MERN Stack: MongoDB, Express.js, React, Node.js -Python -Django -Material.ui </p>
-<p>MERN Stack: MongoDB, Express.js, React, Node.js</p>
-<p>Python, Django</p>
-<p>Material.ui, SQL, PostgreSQL, AWS</p>
-<p>Heroku, Git</p>
+<ul>
+  <li>HTML, CSS, JS</li>
+  <li>MERN Stack: MongoDB, Express.js, React, Node.js</li>
+  <li>Python, Django</li>
+  <li>Material.ui, SQL, PostgreSQL, AWS</li>
+  <li>Heroku, Git</li>
+</ul>
 
 
 
